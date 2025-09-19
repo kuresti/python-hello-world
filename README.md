@@ -3,18 +3,20 @@
 This is a basic Hello World program written in Python. This was created to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together.
 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Software Demo Video](https://youtu.be/RWXOboaqB-E)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Visual Studio Code
+* Python 3.12.9
+* Git / GitHub
 
-{Describe the programming language that you used}
+
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://code.visualstudio.com/docs/editor/versioncontrol)
+* [Web Site Name](https://www.python.org/doc/versions/)
